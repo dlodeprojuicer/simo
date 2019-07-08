@@ -1,4 +1,4 @@
-#Status
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5857b761-8f6b-4109-af94-71723f57f885/deploy-status)](https://app.netlify.com/sites/simomafuxwana/deploys)
 
 # Morphing Background Shapes
